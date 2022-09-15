@@ -1,5 +1,25 @@
 # CISC 499 Advanced Undergraduate Project
 
+# Jupyter Notebook Extensions For Teaching and Learning
+![image](https://user-images.githubusercontent.com/55966810/135778838-a3c08c8f-f5b6-46ea-9878-524969f1872d.png)
+
+- Developed **6 Extensions** for Jupyter Notebook
+- Group Project for Advanced Undergrauate Project course
+
+Supervisor
+--------------------------
+**Faculty Member:** 
+- [Dr. Burton Ma](https://www.cs.queensu.ca/people/profile.php?firstname=Burton&lastname=Ma), Associate Professor, Queen's School of Computing
+
+Group Members:
+--------------------------
+- Derek Huang
+- Jenny Sun
+- Andrea Mitchell
+
+
+
+
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
 
