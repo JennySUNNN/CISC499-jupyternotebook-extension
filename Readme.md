@@ -1,10 +1,6 @@
 # CISC 499 Advanced Undergraduate Project
 
-## Jupyter Notebook Extensions For Teaching and Learning
-![image](https://user-images.githubusercontent.com/55966810/135778838-a3c08c8f-f5b6-46ea-9878-524969f1872d.png)
-
-- Developed **6 Extensions** for Jupyter Notebook
-- Group Project for Advanced Undergrauate Project course
+Developed **6** Jupyter Notebook nbextensions to improve teaching and learning experience on Jupyter Notebook.
 
 Supervisor
 --------------------------
