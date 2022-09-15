@@ -1,10 +1,9 @@
 # CISC 499 Advanced Undergraduate Project
 
-Developed **6** Jupyter Notebook nbextensions to improve teaching and learning experience on Jupyter Notebook.
+Developed **6 Jupyter Notebook nbextensions** to improve teaching and learning experience on Jupyter Notebook for both professors and students.
 
-Supervisor
+Supervisor:
 --------------------------
-**Faculty Member:** 
 - [Dr. Burton Ma](https://www.cs.queensu.ca/people/profile.php?firstname=Burton&lastname=Ma), Associate Professor, Queen's School of Computing
 
 Group Members:
@@ -12,7 +11,6 @@ Group Members:
 - Derek Huang
 - Jenny Sun
 - Andrea Mitchell
-
 
 
 
