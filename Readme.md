@@ -1,3 +1,5 @@
+# CISC 499 Advanced Undergraduate Project
+
 ## Installation:
 Make sure you have **Jupyter Notebook** and **Git** installed first. 
 
