@@ -54,14 +54,6 @@ jupyter nbextension install move_to_top_bottom --user
 jupyter nbextension install annotate_text --user
 
 ```
-Below are demonstrations of the use of all extensions:
-
-![template](https://user-images.githubusercontent.com/67336024/220408653-bb3b4353-79d7-4f68-97f0-eb5759bc9178.png)
-![short_answer](https://user-images.githubusercontent.com/67336024/220408717-a6971238-5a42-4217-9ca7-1eab1e5df439.png)
-![mcq](https://user-images.githubusercontent.com/67336024/220408745-db3cb46c-4d35-42b6-a8f6-c4ff74c319dc.png)
-![highlighter](https://user-images.githubusercontent.com/67336024/220404648-5ac362f9-358e-45ff-b84c-b2f6f1714693.png)
-![move_top](https://user-images.githubusercontent.com/67336024/220408819-0cf80007-251a-4168-9928-e30169a8cd0a.png)
-![annotation](https://user-images.githubusercontent.com/67336024/220408852-7c855c1b-b84a-4471-b411-5aab7e7aaa33.png)
 
 ```
 jupyter nbextension enable template/main --user
@@ -71,3 +63,20 @@ jupyter nbextension enable highlight_and_colour/highlight_and_colour --user
 jupyter nbextension enable move_to_top_bottom/main --user
 jupyter nbextension enable annotate_text/main --user
 ```
+
+# Below are demonstrations of the use of all extensions:
+
+# Template:
+![template](https://user-images.githubusercontent.com/67336024/220408653-bb3b4353-79d7-4f68-97f0-eb5759bc9178.png)
+# Short Answer Cell:
+![short_answer](https://user-images.githubusercontent.com/67336024/220408717-a6971238-5a42-4217-9ca7-1eab1e5df439.png)
+# Multiple Choice Question Cell:
+![mcq](https://user-images.githubusercontent.com/67336024/220408745-db3cb46c-4d35-42b6-a8f6-c4ff74c319dc.png)
+# Highlighter:
+![highlighter](https://user-images.githubusercontent.com/67336024/220404648-5ac362f9-358e-45ff-b84c-b2f6f1714693.png)
+# Quick Move to Top/Bottom:
+![move_top](https://user-images.githubusercontent.com/67336024/220408819-0cf80007-251a-4168-9928-e30169a8cd0a.png)
+# Annotation:
+![annotation](https://user-images.githubusercontent.com/67336024/220408852-7c855c1b-b84a-4471-b411-5aab7e7aaa33.png)
+
+
