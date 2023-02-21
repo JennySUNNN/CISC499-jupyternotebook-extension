@@ -16,6 +16,8 @@ Group Members:
 
 Jupyter notebookis an open source web application that allows users to write notebooks which support a mixture of runnable code, markup text, multimedia, graphs and more. It mostly used by researchers and data scientists to share code and analyze data. It also has great potential for instructors and students to assist teaching and learning, while there are some missing functionalities for teaching application.
 
+## Goal:
+
 This project aims to enhance Jupyter Notebook's accessibility and effectiveness for both instructors and students by developing new features and functionalities. The project is open-source and aims to create extensions that address the limitations of Jupyter Notebook for teaching and learning purposes. These extensions will make Jupyter Notebook a more versatile and useful tool for education, enabling instructors to present material interactively and engage students in their learning process. Our team worked collaboratively to develop six extensions that address the missing functionalities from both the instructor and student perspectives, thereby improving the effectiveness of teaching and learning.
 
 
